@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "183892d61f640b4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc6007e90c33bc48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b5f3ea4bfb9572d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_JavaScript Fundamentals 2/Data Structure/07_DS Choosing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d72c4809f4321c9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_JavaScript Fundamentals 2/Data Structure/06_Maps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e62b271ad0b284a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_JavaScript Fundamentals 1/07_String in JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c743de73bf8a4cc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea0675a6df052470",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7267d105e1bcfddf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "851ea4cc15082e0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "375526ee9bbfa8fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bc28f0410d91debc",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeede6f8ceaa5630",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b18859a79f0db67d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_JavaScript Fundamentals 1/07_String in JavaScript.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ef48a083797db89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_JavaScript Fundamentals 1/07_String in JavaScript.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27438bab3cf3a399",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6058356d9980eb02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_JavaScript Fundamentals 1/07_String in JavaScript.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "2e62b271ad0b284a",
+  "lastOpenFiles": [
+    "02_JavaScript Fundamentals 2/Data Structure/Coding Challenge 3.md",
+    "02_JavaScript Fundamentals 2/Data Structure/06_Maps.md",
+    "02_JavaScript Fundamentals 2/Data Structure/07_DS Choosing.md",
+    "02_JavaScript Fundamentals 2/Data Structure/Coding Challenge 2.md",
+    "02_JavaScript Fundamentals 2/Data Structure/05_Sets.md",
+    "Excalidraw/Drawing 2024-04-24 23.32.29.excalidraw.png",
+    "Excalidraw/Drawing 2024-04-24 23.32.29.excalidraw 1.png",
+    "Excalidraw/Drawing 2024-04-24 23.32.29.excalidraw.md",
+    "02_JavaScript Fundamentals 2/Data Structure/Coding Challenge 1.md",
+    "02_JavaScript Fundamentals 2/Iteration - The for loop.md",
+    "02_JavaScript Fundamentals 2/Data Structure/02_Objects.md",
+    "Untitled",
+    "02_JavaScript Fundamentals 2/Data Structure/04_Rest Pattern and Parameters.md",
+    "02_JavaScript Fundamentals 2/Data Structure/03_Logical Assignment Operator.md",
+    "02_JavaScript Fundamentals 2/Data Structure/01_Array.md",
+    "New knowlendeg learn about JS.md",
+    "01_JavaScript Fundamentals 1/05_Data types of JS summary.md",
+    "01_JavaScript Fundamentals 1/02_Datatype conversion confusion.md",
+    "01_JavaScript Fundamentals 1/03_String to Number is confusing.md",
+    "01_JavaScript Fundamentals 1/01_Datatypes and Ecma standard.md",
+    "02_JavaScript Fundamentals 2/How does JS execute Code + Call Stack.md",
+    "02_JavaScript Fundamentals 2/About IIFE.md",
+    "01_JavaScript Fundamentals 1/10_Scopes in JS.md",
+    "01_JavaScript Fundamentals 1/09_Date and time.md",
+    "01_JavaScript Fundamentals 1/08_Number and Math.md",
+    "01_JavaScript Fundamentals 1/07_String in JavaScript.md",
+    "01_JavaScript Fundamentals 1/07_Extra Thing about String.md",
+    "01_JavaScript Fundamentals 1/06_Stack and Heap Memory.md",
+    "Untitled 1",
+    "09_D",
+    "Excalidraw",
+    "JS working",
+    "Images/Excalidraw/Pig game flow chart.png",
+    "Images/Excalidraw",
+    "05_DOM and Event Fundamentals/Events",
+    "06_Javascript Project for beginner",
+    "05_DOM and Event Fundamentals/04_code_03.html",
+    "05_DOM and Event Fundamentals/03_code_02.html",
+    "Images/Pasted image 20240301191252 1.png",
+    "Images/Pasted image 20240303203932.png",
+    "Pasted image 20240303203926.png",
+    "Pasted image 20240303203912.png",
+    "Images/Pasted image 20240303204025.png",
+    "Images/Pasted image 20240303203959.png",
+    "Pasted image 20240301193604.png",
+    "Untitled.canvas"
+  ]
+}

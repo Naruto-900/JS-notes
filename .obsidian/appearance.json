@@ -1,0 +1,10 @@
+{
+  "accentColor": "#3e96a8",
+  "enabledCssSnippets": [
+    "Link Styling",
+    "style3",
+    "Page Print"
+  ],
+  "baseFontSize": 17,
+  "nativeMenus": false
+}

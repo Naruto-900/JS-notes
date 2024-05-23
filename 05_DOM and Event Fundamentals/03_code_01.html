@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM | Chai aur code</title>
+</head>
+<body>
+
+    <div class="parent">
+        <div class="day 🚫🙅🏼NONVEG">Monday</div>
+        <div class="day 🚫🙅🏼NONVEG">Tuesday</div>
+        <div class="day">Wednesday</div>
+        <div class="day">Thrusday</div>
+    </div>
+    
+</body>
+<script>
+ const parent = document.querySelector('.parent')
+ const childArray = Array.from(parent.children)
+
+ //console.log(`First children is ${parent.firstElementChild.textContent} and last child is ${parent.lastElementChild.innerHTML}`)
+//  console.log(parent)
+//  console.log(childArray)
+//  console.log(childArray[3].innerHTML)
+
+//  for(let i=0; i<childArray.length; i++){
+//     console.log(childArray[i].innerHTML)
+//  }
+
+//  childArray.filter((item) => {
+//     let className = item.className;
+
+//     if(className.split(' ')[1] === '🚫🙅🏼NONVEG') {
+//         console.log(item.innerHTML)
+//         item.style.color = 'red';
+//     }
+//  })
+
+ const firstChild = document.querySelector('.day')
+//  console.log(firstChild.parentNode.innerHTML)
+//  console.log(firstChild.nextElementSibling.innerHTML);
+
+ 
+console.log(`NODES : ${parent.childNodes}`);
+
+console.log("NODES",parent.childNodes)
+
+</script>
+</html>
